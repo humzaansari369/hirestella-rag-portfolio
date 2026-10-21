@@ -1,0 +1,4 @@
+# Project 2: 4-in-1 Multifunctional Robot Prototype
+- Description: Designed and built a 4-mode robot on Arduino Uno integrating Line Following, Obstacle Avoidance, IR Remote Control, and Android Bluetooth/Voice Control into a single modular system.
+- Tech Stack: Arduino, C++, MIT App Inventor, Bluetooth.
+- Key Achievements: Implemented state-based firmware in C++ using IRremote and NewPing libraries. Developed a custom Android control app achieving 90% voice accuracy and 95% obstacle avoidance reliability across 20 trials. Presented at the 20th Aavishkar Inter-Collegiate Research Convention (Zonal Round) organized by University of Mumbai at SIES College, Navi Mumbai (Dec 2025).
